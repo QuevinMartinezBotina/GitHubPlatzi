@@ -1,0 +1,11 @@
+Este es un texto plano de prueba de curos de platzi
+
+Mñaana nos enfocaremos en su vida amorosa.
+
+
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum unde nihil, m
+agnam nam eum, tenetur quaerat eligendi, praesentium culpa optio nemo eos deleni
+ti nesciunt similique odio fuga repellat reprehenderit dolore?
+
+
+Añado esta linea para probar en comando rm, el cual elimina el archivo del disco duro.
